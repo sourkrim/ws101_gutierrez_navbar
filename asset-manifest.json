@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101_gutierrez_navbar/static/css/main.97d963c4.css",
+    "main.js": "/ws101_gutierrez_navbar/static/js/main.02a2841a.js",
+    "static/js/453.f8fc169f.chunk.js": "/ws101_gutierrez_navbar/static/js/453.f8fc169f.chunk.js",
+    "index.html": "/ws101_gutierrez_navbar/index.html",
+    "main.97d963c4.css.map": "/ws101_gutierrez_navbar/static/css/main.97d963c4.css.map",
+    "main.02a2841a.js.map": "/ws101_gutierrez_navbar/static/js/main.02a2841a.js.map",
+    "453.f8fc169f.chunk.js.map": "/ws101_gutierrez_navbar/static/js/453.f8fc169f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d963c4.css",
+    "static/js/main.02a2841a.js"
+  ]
+}
