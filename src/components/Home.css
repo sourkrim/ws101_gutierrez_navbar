@@ -1,0 +1,8 @@
+.content {
+    font-family: monospace;
+    display: grid;
+    place-items: center; 
+    height: 100vh; 
+    text-align: center; 
+  }
+  
